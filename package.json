@@ -1,0 +1,13 @@
+{
+  "name": "redirection",
+  "version": "1.0.0",
+  "description": "A straightforward node-based API designed for custom redirection purposes.",
+  "main": "index.js",
+  "repository": "git@github.com:SomSingh23/Redirection.git",
+  "author": "SomSingh23 <githubsom@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
